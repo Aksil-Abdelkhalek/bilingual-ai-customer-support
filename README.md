@@ -117,5 +117,5 @@ If datasets are private:
 ## Author
 Abdelkhalek Aksil  
 AI Student – La Cité Collégiale  
-Montreal, Canada  
+Ottawa, Canada  
 Email: aksilabdelkhalek@gmail.com
